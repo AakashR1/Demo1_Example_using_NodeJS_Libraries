@@ -4,3 +4,6 @@ write the following URL to test this demo.
 3. http://localhost:3000/about
 4. http://localhost:3000/crypto?string=aakash
 5. http://localhost:3000/platform
+
+
+This practice demo is create to preactice Node.Js built in module like http, os, path, process, fs, url and crypto. This demo is created using pure node.js without any framwork like express,hapi,meteor etc.
